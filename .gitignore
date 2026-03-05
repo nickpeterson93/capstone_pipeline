@@ -1,0 +1,16 @@
+/.claude
+/.venv
+/catboost_info
+/CLAUDE.md
+/complete_run.log
+/data
+/final_run.log
+/final_steps.log
+/HORIZON_NOTEBOOKS_README.md
+/model_diagram.html
+/outputs
+/pipeline_final.log
+/pipeline_log.txt
+/pipeline_remaining.log
+/REWORK_INSTRUCTIONS.md
+/training_eval.log
