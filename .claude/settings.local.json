@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "Bash(chmod +x:*)",
+      "Bash(bash:*)",
+      "Bash(ls -lh outputs/features/*.done)",
+      "Bash(grep:*)",
+      "Bash(python3:*)",
+      "Bash(source:*)"
+    ]
+  }
+}
